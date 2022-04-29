@@ -1,0 +1,38 @@
+[{"id":1, 
+  "name":"Sheela"  ,
+  "qualification":"MD, FACP",
+    "speciality": "Internist, Primary Care Doctor",  
+    "healthCondition": "fever, cold",
+    "location": "America"
+    },{ "id":2,
+      "name": "Sherin",
+    "qualification":"DDS",
+    "speciality": "Dentist, Cosmetic Dentist, Dental Pain Specialist",  
+    "healthCondition": "dental problem, tooth ache",
+    "location": "Africa"
+    },{ "id":3,
+      "name": "Threas Divya",
+      "qualification":"DDS",
+      "speciality": "Dentist, Cosmetic Dentist, Dental Pain Specialist",  
+      "healthCondition": "dental problem, tooth ache, tooth surgery",
+      "location": "New york"
+    },{  "id":3,
+      "name": "Suganya",
+      "qualification":"MD",
+      "speciality": "Internist, Primary Care Doctor",  
+      "healthCondition": "fever, cold, common health issues",
+      "location": "Sweden"
+    },{  "id":4,
+      "name": "Preethi",
+      "qualification":"MD",
+    "speciality": "Internist, Primary Care Doctor",  
+    "healthCondition": "fever, cold, common health issues",
+    "location": "Singapore"
+    },{  "id":5,
+      "name": "Rachel",
+      "qualification":"Do",
+      "speciality": "Primary Care Doctor",  
+      "healthCondition": "fever, cold, common health issues",
+      "location": "Chennai"
+    }]  
+

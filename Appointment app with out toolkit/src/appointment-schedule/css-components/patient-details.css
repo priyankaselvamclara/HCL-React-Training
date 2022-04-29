@@ -1,0 +1,13 @@
+.form-label, .form-control, .form-select, .form-check {
+    display: inline-block;
+}
+.form-block {
+    display: block;
+}
+.form-check {
+    margin-right: 2rem;
+}
+#contactMode {
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem
+}

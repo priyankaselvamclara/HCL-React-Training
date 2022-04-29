@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+.editEmployee{
+  margin-top: 2rem;
+}
+.addEmpForm label span, .editEmployee label span{
+  width: 100px;
+  display: inline-block;
+  text-align: right;
+  padding-right: 10px;
+}
+.addEmpBtn {
+  float: left;
+  margin-left: 7rem;
+  margin-top: 1rem
+}

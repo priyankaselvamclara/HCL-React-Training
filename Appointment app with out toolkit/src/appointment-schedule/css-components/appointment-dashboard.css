@@ -1,0 +1,15 @@
+.appointmentDashboard .nav {
+    display: flex;
+    justify-content: center;
+}
+.appointmentDashboard a {
+    color: #fff;
+    text-decoration: none;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+.appointmentList {
+    margin-top: 6rem;
+}
